@@ -27,6 +27,19 @@ locales:
   de_DE:
     <<: *DEFAULT_DE     # use German translation for de_DE
 
+  # Italian translation
+  # -------------------
+  it: &DEFAULT_IT
+    <<: *DEFAULT_EN     # load English values as default
+    overview: "Panoramica"
+    toc: "Mappa dei contenuti"
+    written_by: "Scritto da"
+    updated: "Ultimo aggiornamento:"
+    share: "Condividi su"
+  it_IT:
+    <<: *DEFAULT_IT     # use German translation for de_DE
+
+
   # French translation (TODO)
   # -------------------
   fr: &DEFAULT_FR
