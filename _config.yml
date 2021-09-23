@@ -2,6 +2,7 @@
 
 title: "Il mio sito"
 description: "Questa è la descrizione del mio fantastico sito DnD"
+tagline: Breve descrizione del sito che ne spiega lo scopo in poche parole.
 logo: logo.png # 120x120 px default image used for Twitter summary card
 teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: it
