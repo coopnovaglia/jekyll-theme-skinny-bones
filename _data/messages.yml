@@ -35,7 +35,7 @@ locales:
     toc: "Mappa dei contenuti"
     written_by: "Scritto da"
     updated: "Ultimo aggiornamento:"
-    share: "Condividi su"
+    share: "Condividi via"
   it_IT:
     <<: *DEFAULT_IT     # use German translation for de_DE
 
