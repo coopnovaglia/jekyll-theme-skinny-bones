@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+title: Un titolo bello
 image:
   feature: banner.jpg
 ---
