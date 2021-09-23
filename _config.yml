@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Il mio sito"
+description: "Questa è la descrizione del mio fantastico sito DnD"
 logo: logo.png # 120x120 px default image used for Twitter summary card
 teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: it
@@ -26,8 +26,8 @@ plugins:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Nome Cognome
+  email: email@example.com
   twitter:
   google:
     ad-client:

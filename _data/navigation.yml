@@ -1,6 +1,13 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Categorie
+  url: /categories/
+  excerpt: "Breve descrizione su questo collegamento ipertestuale"
+
+- title: Una pagina interessante
+  url: /
+  excerpt: "Breve descrizione su questo collegamento ipertestuale"
+
+- title: Altro collegamento
+  url: /
+  excerpt: "Breve descrizione su questo collegamento ipertestuale"
