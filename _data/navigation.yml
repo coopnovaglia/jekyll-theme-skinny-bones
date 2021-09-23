@@ -1,13 +1,17 @@
 # Site navigation links
 
-- title: Categorie
-  url: /categories/
-  excerpt: "Breve descrizione su questo collegamento ipertestuale"
-
-- title: Una pagina interessante
+- title: Pagine popolari
   url: /
   excerpt: "Breve descrizione su questo collegamento ipertestuale"
 
-- title: Altro collegamento
+- title: Categorie
+  url: /
+  excerpt: "Breve descrizione su questo collegamento ipertestuale"
+
+- title: Schede
+  url: /
+  excerpt: "Breve descrizione su questo collegamento ipertestuale"
+
+- title: Cerca
   url: /
   excerpt: "Breve descrizione su questo collegamento ipertestuale"
