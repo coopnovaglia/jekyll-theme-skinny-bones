@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: home
 permalink: /
-title: "Ultime pubblicazioni"
+image:
+  feature: banner.jpg
 ---
 
 <div class="tiles">
@@ -9,3 +10,4 @@ title: "Ultime pubblicazioni"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
