@@ -1,4 +1,48 @@
 ---
 label: predefinito
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: layout
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - post
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: layout
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
