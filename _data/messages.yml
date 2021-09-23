@@ -31,8 +31,8 @@ locales:
   # -------------------
   it: &DEFAULT_IT
     <<: *DEFAULT_EN     # load English values as default
-    overview: "Panoramica"
-    toc: "Mappa dei contenuti"
+    overview: "Mappa dei contenuti"
+    toc: "Mappa del sito"
     written_by: "Scritto da"
     updated: "Ultimo aggiornamento:"
     share: "Condividi via"
